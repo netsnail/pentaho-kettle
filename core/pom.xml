@@ -19,7 +19,7 @@
 
   <properties>
     <!-- webSpoon specific dependencies -->
-    <rap.version>3.3.0</rap.version>
+    <rap.version>3.1.1</rap.version>
 
     <!-- Test running configuration -->
     <maven-surefire-plugin.reuseForks>false</maven-surefire-plugin.reuseForks>
